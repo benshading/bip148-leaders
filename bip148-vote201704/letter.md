@@ -56,8 +56,6 @@ invalid votes).
 to belong to given Entity, PGP or Bitcoin signature) agreement identical to this one, but with
 filled in details of the other Entity (and possibly other Date).
 
-**Vote**: is do we SUPPORT or ABSTAIN this Proposal.
-
 **Entity List** is the list of entities that is in document with SHA512 checksum:
 {{{TO BE FILLED WHEN ENTITY LIST IS FINALIZED}}}.
 
