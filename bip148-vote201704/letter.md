@@ -10,11 +10,12 @@ will be asked to sign:
 
 The text marked like (((THIS))) is a variable that will be filled in
 by each Entity with it's own data;
+
 and the text marked like {{{THIS}}} is a variable that will be filled
 here in process of preparing the agreement text.
 
 
-THIS IS A DRAFT. I AM NOW SOME LAWYER, just a bitcoin user. Please propose PRs to improve.
+THIS IS A DRAFT. I AM NOT A LAWYER, just a bitcoin user. Please propose PRs to improve.
 
 - - -
 
