@@ -1,9 +1,18 @@
 
-Leaders of Bitcoin industry could sign an agreement to 
+We create here Open Letters to invide leaders of Bitcoin industry
+to express their support for various Bitcoin improvements.
+
+Leaders could sign an agreement to 
 **conditionally** support and coordinate
-rolling out support for SegWit/BIP148 (or other future proposals):
+rolling out support for given BIP, in conditional form if they
+can reach **overwhelming majority**:
 
 I will promote .... as Bitcoin, **IF at least 80% of other actors also say so too**.
+
+Currently proposed open letters to leaders:
+* [BIP148/UASF for SegWit](bip148-vote201704/letter.md)
+
+- - -
 
 Pros of such agreement:
 * The leaders can safely support it, with no fear to be left behind in minority.
